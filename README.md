@@ -1,7 +1,5 @@
 # stbdl (Simple Taskbar Decoration Library)
 
-Document: https://github.com/enstarep/rchp/blob/main/stbdl/README.md
-
 Run the following command to install stbdl:
 
 ```
