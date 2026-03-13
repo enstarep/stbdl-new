@@ -1,7 +1,6 @@
 # Copyright (c) 2026 enstarep <enstarep@rncyk.org> and other authors of stbdl
 # License: https://github.com/theembodimentofdisharmony/stbdl/blob/main/LICENSE
 
-import ctypes
 from ctypes import wintypes
 from typing import Optional
 
