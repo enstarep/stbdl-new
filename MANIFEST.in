@@ -4,4 +4,10 @@ include README.md LICENSE
 
 exclude stbdl.rc
 
-prune .idea
+exclude stbdl/*.obj
+
+exclude stbdl/*.cc
+
+exclude stbdl.res
+
+prune /.idea
