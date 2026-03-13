@@ -2,5 +2,6 @@ recursive-include stbdl *.exe *.png
 
 include README.md LICENSE
 
-
 exclude stbdl.rc
+
+prune .idea
