@@ -7,7 +7,7 @@ import ctypes
 from ctypes import wintypes
 
 
-__version__ = "0.5.2"
+__version__ = "0.5.3"
 
 
 def window(path: str = None, mode: int = 3):
