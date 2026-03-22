@@ -7,8 +7,10 @@ import ctypes
 from ctypes import wintypes
 
 
-__version__ = "0.5.2"
+__version__ = "0.5.4"
 
+if not sys.platform.startswith("win"):
+    raise RuntimeError("Unsupported platform")
 
 def window(path: str = None, mode: int = 3):
     """
